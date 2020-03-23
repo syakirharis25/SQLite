@@ -42,6 +42,8 @@ Foreign Key by techopedia : https://www.techopedia.com/definition/7272/foreign-k
 
 **_SQLite related articles_** <br />
 What a Relational Database Is by .oracle.com : https://www.oracle.com/database/what-is-a-relational-database/ <br />
+SQL SELECT DISTINCT Statement by dofactory : https://www.dofactory.com/sql/select-distinct <br />
+SQL SELECT Statement by w3schools.com : https://www.w3schools.com/sql/sql_select.asp <br />
 
 <a name="developers"></a>
 ## 4. SQLite developers.
