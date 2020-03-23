@@ -39,18 +39,7 @@ Differences between SQLite database in Android and IOS by Stack Overflow : https
 **_SQLite documentation by sqlite.org_** <br />
 SQL As Understood By SQLite by sqlite.org : https://www.sqlite.org/lang_keywords.html <br />
 
-**_SQLite documentation by techopedia_** <br />
-Primary Key by techopedia : https://www.techopedia.com/definition/5547/primary-key <br />
-Foreign Key by techopedia : https://www.techopedia.com/definition/7272/foreign-key <br />
-
-**_SQLite documentation by w3schools.com_** <br />
-SQL SELECT Statement by w3schools.com : https://www.w3schools.com/sql/sql_select.asp <br />
-SQL WHERE Clause by w3schools.com : https://www.w3schools.com/sql/sql_where.asp <br />
-SQL FROM Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_from.asp <br />
-
 **_SQLite related articles_** <br />
-What a Relational Database Is by .oracle.com : https://www.oracle.com/database/what-is-a-relational-database/ <br />
-SQL SELECT DISTINCT Statement by dofactory : https://www.dofactory.com/sql/select-distinct <br />
 What is an Operator in SQLite? by tutorialpoint : https://www.tutorialspoint.com/sqlite/sqlite_operators.htm <br />
 
 <a name="developers"></a>
