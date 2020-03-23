@@ -33,6 +33,9 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 **_SQLite questions and answers by Stack Overflow_** <br />
 [ draft ]
 
+**_SQLite related articles_** <br />
+What a Relational Database Is by .oracle.com : https://www.oracle.com/database/what-is-a-relational-database/ <br />
+
 <a name="developers"></a>
 ## 4. SQLite developers.
 SQLite was created by Dwayne Richard Hipp : https://github.com/dhh, https://twitter.com/DRichardHipp <br />
