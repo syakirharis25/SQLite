@@ -45,6 +45,7 @@ What a Relational Database Is by .oracle.com : https://www.oracle.com/database/w
 <a name="developers"></a>
 ## 4. SQLite developers.
 SQLite was created by Dwayne Richard Hipp : https://github.com/dhh, https://twitter.com/DRichardHipp <br />
+Awais Mirza : https://twitter.com/AwaisMirza01 <br />
  
 <a name="github"></a>
 ## 6. GitHub notes.
