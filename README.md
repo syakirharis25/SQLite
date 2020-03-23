@@ -33,6 +33,10 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 **_SQLite questions and answers by Stack Overflow_** <br />
 [ draft ]
 
+**_SQLite documentation by techopedia_** <br />
+Primary Key by techopedia : https://www.techopedia.com/definition/5547/primary-key <br />
+Foreign Key by techopedia : https://www.techopedia.com/definition/7272/foreign-key <br />
+
 **_SQLite related articles_** <br />
 What a Relational Database Is by .oracle.com : https://www.oracle.com/database/what-is-a-relational-database/ <br />
 
