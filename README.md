@@ -36,6 +36,9 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 **_SQLite questions and answers by Stack Overflow_** <br />
 Differences between SQLite database in Android and IOS by Stack Overflow : https://stackoverflow.com/questions/14792671/differences-between-sqlite-database-in-android-and-ios <br />
 
+**_SQLite documentation by sqlite.org_** <br />
+SQL As Understood By SQLite by sqlite.org : https://www.sqlite.org/lang_keywords.html <br />
+
 **_SQLite documentation by techopedia_** <br />
 Primary Key by techopedia : https://www.techopedia.com/definition/5547/primary-key <br />
 Foreign Key by techopedia : https://www.techopedia.com/definition/7272/foreign-key <br />
