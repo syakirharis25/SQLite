@@ -28,6 +28,7 @@ The design goals of SQLite were to allow the program to be operated without inst
 SQLite official website : https://sqlite.org <br />
 SQLite official download page : https://sqlite.org/download.html <br />
 DB Browser for SQLite : https://sqlitebrowser.org <br />
+DB Browser for SQLite download page : https://sqlitebrowser.org/dl/ <br />
 
 **_SQLite questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
