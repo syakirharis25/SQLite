@@ -38,6 +38,7 @@ Differences between SQLite database in Android and IOS by Stack Overflow : https
 
 **_SQLite documentation by sqlite.org_** <br />
 SQL As Understood By SQLite by sqlite.org : https://www.sqlite.org/lang_keywords.html <br />
+Datatypes In SQLite Version 3 by sqlite.org : https://www.sqlite.org/datatype3.html <br />
 
 **_SQLite related articles_** <br />
 What is an Operator in SQLite? by tutorialpoint : https://www.tutorialspoint.com/sqlite/sqlite_operators.htm <br />
