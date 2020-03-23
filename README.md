@@ -31,7 +31,7 @@ SQLite official website : https://sqlite.org <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
 **_SQLite questions and answers by Stack Overflow_** <br />
-[ draft ]
+Differences between SQLite database in Android and IOS by Stack Overflow : https://stackoverflow.com/questions/14792671/differences-between-sqlite-database-in-android-and-ios <br />
 
 **_SQLite documentation by techopedia_** <br />
 Primary Key by techopedia : https://www.techopedia.com/definition/5547/primary-key <br />
