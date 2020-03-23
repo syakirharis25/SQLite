@@ -26,16 +26,26 @@ The design goals of SQLite were to allow the program to be operated without inst
 <a name="references"></a>
 ## 2. Official references websites. 
 SQLite official website : https://sqlite.org <br />
+SQLite official download page : https://sqlite.org/download.html <br />
+DB Browser for SQLite : https://sqlitebrowser.org <br />
+DB Browser for SQLite download page : https://sqlitebrowser.org/dl/ <br />
 
 **_SQLite questions and answers_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
 **_SQLite questions and answers by Stack Overflow_** <br />
-[ draft ]
+Differences between SQLite database in Android and IOS by Stack Overflow : https://stackoverflow.com/questions/14792671/differences-between-sqlite-database-in-android-and-ios <br />
+
+**_SQLite documentation by sqlite.org_** <br />
+SQL As Understood By SQLite by sqlite.org : https://www.sqlite.org/lang_keywords.html <br />
+
+**_SQLite related articles_** <br />
+What is an Operator in SQLite? by tutorialpoint : https://www.tutorialspoint.com/sqlite/sqlite_operators.htm <br />
 
 <a name="developers"></a>
 ## 4. SQLite developers.
 SQLite was created by Dwayne Richard Hipp : https://github.com/dhh, https://twitter.com/DRichardHipp <br />
+Awais Mirza : https://twitter.com/AwaisMirza01 <br />
  
 <a name="github"></a>
 ## 6. GitHub notes.
