@@ -48,6 +48,7 @@ SQL FROM Keyword by w3schools.com : https://www.w3schools.com/sql/sql_ref_from.a
 **_SQLite related articles_** <br />
 What a Relational Database Is by .oracle.com : https://www.oracle.com/database/what-is-a-relational-database/ <br />
 SQL SELECT DISTINCT Statement by dofactory : https://www.dofactory.com/sql/select-distinct <br />
+What is an Operator in SQLite? by tutorialpoint : https://www.tutorialspoint.com/sqlite/sqlite_operators.htm <br />
 
 <a name="developers"></a>
 ## 4. SQLite developers.
