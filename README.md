@@ -44,12 +44,12 @@ Datatypes In SQLite Version 3 by sqlite.org : https://www.sqlite.org/datatype3.h
 What is an Operator in SQLite? by tutorialpoint : https://www.tutorialspoint.com/sqlite/sqlite_operators.htm <br />
 
 <a name="developers"></a>
-## 4. SQLite developers.
+## 3. SQLite developers.
 SQLite was created by Dwayne Richard Hipp : https://github.com/dhh, https://twitter.com/DRichardHipp <br />
 Awais Mirza : https://twitter.com/AwaisMirza01 <br />
  
 <a name="github"></a>
-## 6. GitHub notes.
+## 4. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/SQLite.git
@@ -59,7 +59,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 7. GitHub repository calculation.
+## 5. GitHub repository calculation.
 ```
 draft
 ```
